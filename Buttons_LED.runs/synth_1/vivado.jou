@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Jul 24 18:13:52 2019
+# Process ID: 10380
+# Current directory: C:/Users/dark/Buttons_LED/Buttons_LED.runs/synth_1
+# Command line: vivado.exe -log Button_LED.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Button_LED.tcl
+# Log file: C:/Users/dark/Buttons_LED/Buttons_LED.runs/synth_1/Button_LED.vds
+# Journal file: C:/Users/dark/Buttons_LED/Buttons_LED.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Button_LED.tcl -notrace
